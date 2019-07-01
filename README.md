@@ -7,6 +7,4 @@
 ### Installation Wordpress
 1. Clone the repository `git clone https://github.com/anuchit33/wordpress-demo.git`
 2. Run `docker-compose -f "docker-compose.yml" up -d --build`
-
-### Setting Wordpress
-Open Chrome : `http://localhost:8080/`
+3. Open Chrome : `http://localhost:8080/`
