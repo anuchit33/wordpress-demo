@@ -6,5 +6,4 @@
 
 ### Installation Wordpress
 1. Clone the repository `git clone https://github.com/anuchit33/wordpress-demo.git`
-2. Run `cd wordpress-demo`
-3. Run `cd wordpress-demo`
+2. Run `docker-compose -f "docker-compose.yml" up -d --build`
