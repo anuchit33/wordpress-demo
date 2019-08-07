@@ -11,6 +11,22 @@ wp-content/mu-plugins/
 wp-content/wp-cache-config.php
 wp-content/plugins/hello.php
 
+# dev template and plugin
+wp-admin/
+wp-includes/
+web/docroot/*.php
+web/docroot/*.txt
+web/docroot/*.html
+.htaccess
+web/docroot/wp-content/index.php
+web/docroot/wp-content/themes/index.php
+web/docroot/wp-content/themes/twentynineteen/
+web/docroot/wp-content/themes/twentyseventeen/
+web/docroot/wp-content/themes/twentysixteen/
+web/docroot/wp-content/plugins/index.php
+web/docroot/wp-content/plugins/hello.php
+web/docroot/wp-content/plugins/akismet/
+
 /.htaccess
 /license.txt
 /readme.html
